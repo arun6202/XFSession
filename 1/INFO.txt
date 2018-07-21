@@ -33,7 +33,8 @@ impelement Merged Dictionaries
 impelement Visual State Manager
 
 Advanced:
-
+gaana
+wynk
 
 XAML sample references:
 git clone https://github.com/arun6202/XFSession.git
@@ -41,3 +42,14 @@ git clone https://github.com/arun6202/XFSession.git
 
 xamarin-forms-samples(more generic)
 git clone https://github.com/xamarin/xamarin-forms-samples.git
+
+tools:
+/*
+             * Live Reload Preview is Windows only. On macOS it'll do nothing.
+             * 1) Install the VS extension and follow the instructions here https://marketplace.visualstudio.com/items?itemName=Xamarin.XamarinLiveReload
+            */
+
+Dependency injection:
+git clone https://github.com/grumpydev/TinyIoC.git
+
+
