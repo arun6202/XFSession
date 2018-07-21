@@ -2,6 +2,8 @@
 *	Data Binding and MVVM
 *	Dependency Injection
 
+COMPLEX XAML
+
 1.ConferenceVision
 git clone https://github.com/Microsoft/ConferenceVision.git
 
@@ -13,3 +15,13 @@ git clone https://github.com/dotnet-architecture/eShopOnContainers.git
 git clone https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps.git
 ../src/Mobile
 
+
+XAML exercise:
+
+Beginner:
+Clone:
+
+
+Moderate:
+
+Advanced:
