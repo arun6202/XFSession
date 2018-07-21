@@ -19,9 +19,25 @@ git clone https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps.git
 XAML exercise:
 
 Beginner:
-Clone:
 
+Clone:
+git clone https://github.com/arun6202/XFSession.git
+navigate to
+../1/Essentials
+Convert all views.xaml files to  flexlayout/absolute/relative whereever appropriate
 
 Moderate:
+Convert eShopOnContainers or SmartHotel360
+Convert all views.xaml files to  flexlayout/absolute/relative whereever appropriate
+impelement Merged Dictionaries
+impelement Visual State Manager
 
 Advanced:
+
+
+XAML sample references:
+git clone https://github.com/arun6202/XFSession.git
+../1/References
+
+xamarin-forms-samples(more generic)
+git clone https://github.com/xamarin/xamarin-forms-samples.git
