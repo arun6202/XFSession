@@ -1,0 +1,15 @@
+*	XAML- with a complex UI example
+*	Data Binding and MVVM
+*	Dependency Injection
+
+1.ConferenceVision
+git clone https://github.com/Microsoft/ConferenceVision.git
+
+2.eShopOnContainers
+git clone https://github.com/dotnet-architecture/eShopOnContainers.git
+../src/Mobile
+
+3.SmartHotel360
+git clone https://github.com/Microsoft/SmartHotel360-mobile-desktop-apps.git
+../src/Mobile
+
